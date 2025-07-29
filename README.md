@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#0a66c2;">Raviranjan Patel</span></h1>
-<h3 align="center"><span style="color:#333333;">A passionate Software Developer</span></h3>
+<h1 align="center">Hi 👋, I'm <strong><code style="font-size: 24px;">Raviranjan Patel</code></strong></h1>
+
+<h3 align="center"><em>A passionate Software Developer</em></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raviranjanpatel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -7,16 +8,16 @@
 
 ---
 
-### 💻 <span style="color:#0a66c2;">About Me</span>
+### 💻 **About Me**
 
-- 👨‍💻 I’m a <span style="font-weight:bold;">Software Developer</span> with strong skills in system programming and web technologies  
-- 🔭 Currently working on an exciting project in <span style="font-weight:bold;">Generative AI</span>  
+- 👨‍💻 I’m a **Software Developer** with strong skills in system programming and web technologies  
+- 🔭 Currently working on an exciting project in **Generative AI**  
 - 💡 Always eager to learn new technologies and apply them to solve real-world problems  
 - 🌐 Actively contributing to open-source and personal projects  
 
 ---
 
-### 🛠️ <span style="color:#0a66c2;">Tech Stack</span>
+### 🛠️ **Tech Stack**
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -32,7 +33,7 @@
 
 ---
 
-### 📈 <span style="color:#0a66c2;">GitHub Stats</span>
+### 📈 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raviranjanpatel&show_icons=true&theme=default" alt="Raviranjan's GitHub Stats" />
@@ -40,13 +41,19 @@
 
 ---
 
-### 🔗 <span style="color:#0a66c2;">Connect with Me</span>
+### Badges**
 
-- 💼 <a href="https://www.linkedin.com/in/ravi-ranjan-patel-725514172" target="_blank"><span style="color:#0a66c2;">LinkedIn</span></a>  
-- 📫 <a href="mailto:patelraviranjan143@gmail.com"><span style="color:#dd4b39;">patelraviranjan143@gmail.com</span></a>
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+
+### 🔗 **Connect with Me**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ravi-ranjan-patel-725514172)  
+- 📫 [patelraviranjan143@gmail.com](mailto:patelraviranjan143@gmail.com)
 
 ---
 
-### ✨ <span style="color:#0a66c2;">Fun Fact</span>
+### ✨ **Fun Fact**
 
 > "Code is like humor. When you have to explain it, it’s bad."
